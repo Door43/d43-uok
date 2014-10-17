@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uok:home|Door43 (uok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uok|d43-uok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uok/archive/master.zip|d43-uok.zip]]
+
+**Recent Changes**
+{{changes>ns = uok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uok|Ethnologue data]]
+
